@@ -4,7 +4,7 @@ A repository for practice problems, projects, and tasks in Data Science speciali
 
 ## 🧠 Supervised Learning
 
-- **Linear Regression**: [Housing Price Prediction](Housing_Task1_Prajan.ipynb)
+- **Linear Regression**: [Student Performance Prediction](https://github.com/shreeprajan17/Student-Performance-Prediction)
 - **Linear Regression**: [Advertising Sales Prediction](LinearRegAdvertising_Task2_Prajan.ipynb)
 - **Naive Bayes**: [Spam Detection](Spam-Detection-Naive)
 - **Logistic Regression**: [Link to file]
